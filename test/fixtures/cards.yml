@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  card_number: 1
+  cvc: 1
+  start_date: 2022-06-02
+  end_date: 2022-06-02
+  bank_name: MyString
+
+two:
+  name: MyString
+  card_number: 1
+  cvc: 1
+  start_date: 2022-06-02
+  end_date: 2022-06-02
+  bank_name: MyString
